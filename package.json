@@ -1,0 +1,17 @@
+{
+  "name": "comic-info",
+  "version": "0.0.1",
+  "description": "Get info from comic book file e.g. cbz",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Lee M (lee@hma.co.uk)",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "fs-extra": "^0.30.0",
+    "lodash": "^4.13.1",
+    "simple-cli-parser": "0.0.1",
+    "titlecase": "^1.1.2"
+  },
+  "license": "ISC",
+  "repository": "https://github.com/leemm/comic-info.git"
+}
