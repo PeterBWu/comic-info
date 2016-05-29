@@ -33,10 +33,10 @@ To see info on a CBZ file.
 'use strict';
 
 const path = require('path'),
-    parse = require('comic-info'),
+    comic = require('comic-info'),
     filePath = path.join(__dirname, 'BusterBear10.cbz');
 
-new parse({ path: filePath })
+new comic({ path: filePath })
     .then(res => { if (res){ console.log('Success!', res); } })
     .catch(err => { if (err){ console.log('Failed!', err); } });
 
@@ -88,10 +88,10 @@ To see info on a PDF file.
 'use strict';
 
 const path = require('path'),
-    parse = require('comic-info'),
+    comic = require('comic-info'),
     filePath = path.join(__dirname, 'ChillingTales013.pdf');
 
-new parse({ path: filePath })
+new comic({ path: filePath })
     .then(res => { if (res){ console.log('Success!', res); } })
     .catch(err => { if (err){ console.log('Failed!', err); } });
 
