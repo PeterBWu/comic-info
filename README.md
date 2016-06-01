@@ -3,11 +3,11 @@ comic-info
 
 [![Build Status](https://travis-ci.org/leemm/comic-info.svg?branch=master)](https://travis-ci.org/leemm/comic-info)
 
-Gets information for comic-book files e.g. pages, size, meta data.  Currently supports PDF, CBZ and CBR.
+Gets information for comic-book files e.g. pages, size, meta data.  Currently supports PDF, CBZ, CBR, CB7 and CBT.
 
 # Prerequisites
 
-Several tools are required to open all functionality.  You can everything or just those you need.
+Several tools are required to open up all functionality.  You can install everything or just those you need.
 
 * **p7zip** - to install 7z command, required for archive based file support e.g. CBZ, CBR.
 * **poppler** - to install pdfinfo command, required PDF support.
