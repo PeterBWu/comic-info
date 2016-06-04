@@ -1,6 +1,6 @@
 {
   "name": "comic-info",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Get info from comic book file e.g. cbz",
   "main": "index.js",
   "scripts": {},
@@ -9,7 +9,7 @@
     "colors": "^1.1.2",
     "fs-extra": "^0.30.0",
     "lodash": "^4.13.1",
-    "simple-cli-parser": "0.0.2",
+    "simple-cli-parser": "0.0.3",
     "titlecase": "^1.1.2"
   },
   "license": "ISC",
