@@ -13,5 +13,6 @@
     "titlecase": "^1.1.2"
   },
   "license": "ISC",
-  "repository": "https://github.com/leemm/comic-info.git"
+  "repository": "https://github.com/leemm/comic-info.git",
+  "keywords": [ "comic", "book", "graphic", "novel", "cli", "zip", "7zip", "cbt", "cbr", "cbz", "cb7", "pdf" ]
 }
