@@ -25,6 +25,7 @@ $ sudo apt-get install poppler-utils && sudo apt-get install p7zip-full
 npm install comic-info --save
 ```
 
+
 # Usage
 
 To see info on a CBZ file.
