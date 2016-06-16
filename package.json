@@ -1,6 +1,6 @@
 {
   "name": "comic-info",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Get info from comic book file e.g. cbz",
   "main": "index.js",
   "scripts": {},
