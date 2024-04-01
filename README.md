@@ -1,8 +1,6 @@
 comic-info
 ==========
 
-[![Build Status](https://travis-ci.org/leemm/comic-info.svg?branch=master)](https://travis-ci.org/leemm/comic-info)
-
 Gets information for comic-book files e.g. pages, size, meta data.  Currently supports PDF, CBZ, CBR, CB7 and CBT.
 
 # Prerequisites
@@ -18,13 +16,6 @@ $ brew update && brew doctor && brew install p7zip && brew install poppler
 # Ubuntu
 $ sudo apt-get install poppler-utils && sudo apt-get install p7zip-full
 ```
-
-
-# Install
-```
-npm install comic-info --save
-```
-
 
 # Usage
 
